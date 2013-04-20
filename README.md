@@ -15,7 +15,8 @@ Hall of shame if you will.
 
 ## Services
 
-* http://meetup.com
-* http://vk.com
-* http://pornhub.com
-* http://oscaro.com
+* http://kobobooks.com/
+* http://meetup.com/
+* http://oscaro.com/
+* http://pornhub.com/
+* http://vk.com/
