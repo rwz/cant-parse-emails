@@ -18,9 +18,9 @@
     * `joe+foo@example.org`
     * `joe+bar@example.org`
 
-    You may want to check the [rfc5321] for the formal definition 
+    You may want to check the [rfc5322] for the formal definition 
     of the email syntax.
-    [rfc5321]: http://tools.ietf.org/html/rfc5321#section-4.1.2
+    [rfc5322]: https://tools.ietf.org/html/rfc5322#section-3.4.1
 
     ## Why is it important?
 
