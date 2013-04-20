@@ -1,6 +1,6 @@
 # Can't parse emails
 
-[RFC2822](http://tools.ietf.org/html/rfc2822#section-3.4.1) allows using “+” in e-mails.
+[RFC5322](https://tools.ietf.org/html/rfc5322#section-3.4.1) allows using “+” in e-mails.
 
 All mail that is sent on user+1@example.com, user+2@example.com will appear in user@example.com mail.
 This is extremely useful if you want to detect a service that sells user e-mails to spammers and
