@@ -15,6 +15,7 @@ Hall of shame if you will.
 
 ## Services
 
+* http://jobvite.com/
 * http://kobobooks.com/
 * http://meetup.com/
 * http://oscaro.com/
