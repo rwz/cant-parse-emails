@@ -16,3 +16,4 @@ Hall of shame if you will.
 ## Services
 
 * http://meetup.com
+* http://vk.com
