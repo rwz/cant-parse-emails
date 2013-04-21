@@ -13,7 +13,7 @@ or just prohibits this feature for whatever reasons.
 
 Hall of shame if you will.
 
-![](https://dl.dropboxusercontent.com/u/8663332/meetup-fail.png)
+![meetup.com](https://f.cloud.github.com/assets/129043/404706/4be59bc0-a96c-11e2-984d-c86798d00ea4.png)
 
 ## Services
 
