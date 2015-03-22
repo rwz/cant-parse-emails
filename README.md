@@ -17,7 +17,9 @@ Hall of shame if you will.
 
 ## Services
 
+* http://chevrolet.com/
 * http://endomondo.com/
+* http://experian.com/
 * http://interflora.fr/
 * http://jobvite.com/
 * http://kobobooks.com/
