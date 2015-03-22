@@ -27,3 +27,4 @@ Hall of shame if you will.
 * http://www.interflora.fr/
 * https://www.espaceclient.bouyguestelecom.fr/
 * http://www.endomondo.com/
+* http://wechat.com/
