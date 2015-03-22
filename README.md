@@ -17,14 +17,14 @@ Hall of shame if you will.
 
 ## Services
 
+* http://endomondo.com/
+* http://interflora.fr/
 * http://jobvite.com/
 * http://kobobooks.com/
+* http://leboncoin.fr/
 * http://meetup.com/
 * http://oscaro.com/
 * http://pornhub.com/
 * http://vk.com/
-* http://www.leboncoin.fr/
-* http://www.interflora.fr/
-* https://www.espaceclient.bouyguestelecom.fr/
-* http://www.endomondo.com/
 * http://wechat.com/
+* https:/espaceclient.bouyguestelecom.fr/
