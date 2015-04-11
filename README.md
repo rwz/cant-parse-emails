@@ -28,3 +28,4 @@ Hall of shame if you will.
 * https://www.espaceclient.bouyguestelecom.fr/
 * http://www.endomondo.com/
 * http://wechat.com/
+* http://telegram.com/
