@@ -19,6 +19,7 @@ Hall of shame if you will.
 
 * http://chevrolet.com/
 * http://endomondo.com/
+* http://espaceclient.bouyguestelecom.fr/
 * http://experian.com/
 * http://interflora.fr/
 * http://jobvite.com/
@@ -30,4 +31,3 @@ Hall of shame if you will.
 * http://transunion.com/
 * http://vk.com/
 * http://wechat.com/
-* https:/espaceclient.bouyguestelecom.fr/
