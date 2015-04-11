@@ -28,7 +28,7 @@ Hall of shame if you will.
 * http://meetup.com/
 * http://oscaro.com/
 * http://pornhub.com/
+* http://telegram.com/
 * http://transunion.com/
 * http://vk.com/
 * http://wechat.com/
-* http://telegram.com/
