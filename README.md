@@ -33,3 +33,4 @@ Hall of shame if you will.
 * http://transunion.com/
 * http://vk.com/
 * http://wechat.com/
+* http://www.xiami.com/
