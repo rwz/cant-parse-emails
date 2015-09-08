@@ -23,6 +23,7 @@ Hall of shame if you will.
 * http://esurance.com/
 * http://experian.com/
 * http://interflora.fr/
+* http://jd.com/
 * http://jobvite.com/
 * http://kobobooks.com/
 * http://leboncoin.fr/
