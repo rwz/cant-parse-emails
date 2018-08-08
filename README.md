@@ -2,7 +2,8 @@
 
 [RFC5322](https://tools.ietf.org/html/rfc5322#section-3.4.1) allows the usage of `+` in e-mails.
 
-All mail that is sent to user+foo@example.com, user+bar@example.com ends up in user@example.com mailbox.
+Some mail services interpret `+` such that all mail that is sent to user+foo@example.com,
+user+bar@example.com ends up in user@example.com mailbox.
 This helps managing your inbox, is extremely useful if you want to detect a service that sells user
 e-mails to spammers and just keeps yourself more secure.
 
