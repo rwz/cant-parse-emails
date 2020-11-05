@@ -20,6 +20,7 @@ Hall of shame if you will.
 
 * http://espaceclient.bouyguestelecom.fr/
 * http://chevrolet.com/
+* https://www.darty.com/
 * http://endomondo.com/
 * https://mon-compte-particulier.enedis.fr/
 * http://esurance.com/
