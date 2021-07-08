@@ -35,6 +35,8 @@ Hall of shame if you will.
 * [libertymutual.com](http://libertymutual.com/)
 * [live.com](https://account.live.com/)
 * [meetup.com](http://meetup.com/)
+* [net-entreprises.fr](https://net-entreprises.fr/)
+* [orange.fr](https://orange.fr/)
 * [oscaro.com](http://oscaro.com/)
 * [pornhub.com](http://pornhub.com/)
 * [stablehost.com](http://stablehost.com/)
